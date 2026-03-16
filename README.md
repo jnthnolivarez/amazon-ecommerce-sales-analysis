@@ -9,7 +9,7 @@ https://public.tableau.com/views/AmazonE-commerceSalesPerformanceDashboard/Dashb
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/amazon_dashboard.png)
 
 ## Key Insights
 
