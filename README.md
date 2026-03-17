@@ -5,7 +5,7 @@ Data analyst portfolio project: Amazon sales data cleaning in SQL and dashboard 
 
 View the live dashboard here:
 
-https://public.tableau.com/views/AmazonE-commerceSalesPerformanceDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/AmazonE-commerceSalesPerformanceDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Dashboard Preview
 
