@@ -13,6 +13,10 @@ UPDATE amazon_sales_raw
 SET ship_city = 'Unknown'
 WHERE ship_city IS NULL;
 
+-- Create new clean table
+CREATE TABLE amazon_sales_clean AS
+SELECT * FROM amazon_sales_raw
+
 -- Create order_stage
 ALTER TABLE amazon_sales_clean
 ADD COLUMN order_stage VARCHAR(20);
